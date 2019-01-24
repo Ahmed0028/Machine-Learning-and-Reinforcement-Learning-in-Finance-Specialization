@@ -7,3 +7,10 @@ Reinforce Your Career: Machine Learning in Finance. Extend your expertise of alg
 **4-Become familiar with popular approaches to modeling market frictions and feedback effects for option trading./
 
 
+Skills you will Gain:
+**-SKILLS YOU WILL GAIN
+**-Predictive Modelling
+**-Financial Engineering
+**-Machine Learning
+**-Tensorflow
+**-Reinforcement Learning
