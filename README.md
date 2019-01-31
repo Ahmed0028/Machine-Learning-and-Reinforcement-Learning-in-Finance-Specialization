@@ -9,11 +9,11 @@ Reinforce Your Career: Machine Learning in Finance. Extend your expertise of alg
 
 
 #### SKILLS YOU WILL GAIN
-*-Predictive Modelling*
-*-Financial Engineering
-*-Machine Learning
-*-Tensorflow
-*-Reinforcement Learning
+* Predictive Modelling
+* Financial Engineering
+* Machine Learning
+* Tensorflow
+* Reinforcement Learning
 
 --------------------------------------
 
