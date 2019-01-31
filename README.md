@@ -1,4 +1,5 @@
-# Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization/
+# Machine Learning and Reinforcement Learning in Finance 
+## [This Course offers from Igor Halperin at Coursera](https://www.coursera.org/instructor/~1348915)
 Reinforce Your Career: Machine Learning in Finance. Extend your expertise of algorithms and tools needed to predict financial markets./
 
  * 1-Compare ML for Finance with ML in Technology (image and speech recognition, robotics, etc.)*
